@@ -1,0 +1,80 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+    background-color: rgb(158, 236, 184);
+}
+
+.link-header {
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 255, 221);
+    text-shadow: 5px 5px 5px grey;
+    font-size: 65px;
+}
+
+
+.link-nav {
+    color: red;
+    text-decoration: none;
+    background-color: darkred;
+    border: 3px solid black;
+}
+
+.link-nav:hover {
+    font-size: 35px;
+    transition: all 2s ease-out;
+    color: black;
+    background-color: darkred;
+    border: 3px solid  red;
+}
+h1:hover {
+    transition: all 2s ease-in;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(4, 0, 238);
+}
+header {
+    background-image: linear-gradient(blue, red, black);
+    padding: 25px;
+    margin-bottom: 30px;
+}
+
+.gor {
+    background-color: black
+}
+
+p {
+    color: white;
+    padding: 10px;
+}
+
+p:hover{
+    transition: all 1s linear;
+    font-size: 30px;
+}
+
+
+.link-header:hover {
+    color: black;
+    transition: all 1s linear;
+    font-size: 20px;
+}
+
+
+ul {
+    text-shadow: 5px 5px 5px grey;
+}
